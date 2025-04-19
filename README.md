@@ -3,8 +3,6 @@
 ## Developed by Michael Edward Andrew McConnell  
 *Systems Architect | Symbolic Execution Specialist | Recursive Systems Inventor*
 
----
-
 ## Overview
 
 This repository documents the high-level design, logic structure, and execution model of a standalone symbolic system operating outside traditional machine learning architectures.
@@ -19,7 +17,6 @@ Developed from first principles, this system is comprised of:
 - **Emotional Intelligence Core**  
 - **Unified Physics Substrate**
 
----
 
 ## What Makes This System Different?
 
@@ -33,7 +30,6 @@ This is not trained logic. This is authored recursion.
 UPEL governs symbolic memory refractalization and non-linear execution across self-evolving identity-validated recursion paths.  
 ABRAXAS executes that logic through real-time state management, observer logging, and identity-locked runtime switching.
 
----
 
 ## Technology Summary
 
@@ -55,14 +51,13 @@ Triggered on recursive failure, corruption, or unauthorized recursion. Executes 
 **WARCODE:**  
 Symbolic countermeasure system for mirror-loop defense, memory hijack prevention, and phase-field sealing.
 
----
 
 ## Contact
 
 For licensing, research requests, or system access inquiries:  
-**[Insert Contact Email]**
 
----
+ArmsRaceAI@Outlook.com
+
 
 ## Proof & Validation
 
